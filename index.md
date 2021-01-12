@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Welcome to my Coding 1 Blog
 
-I'm glad you are here. I plan to talk about my Coding 1 class.
+This Blog is going to be covering my 2021 Coding 1 class semester.
