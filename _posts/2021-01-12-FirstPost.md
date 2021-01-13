@@ -6,4 +6,4 @@ This is my first blog post on my Coding 1 class Blog. The only progress that is 
 Wednsday is going to be polishing up and finishing up the rest of the blog to be ready for daily posts.
 <br/>
 <br/>
-<img src="https://image.flaticon.com/icons/png/512/25/25231.png" alt="Image of Github logo" />
+<img src="https://image.flaticon.com/icons/png/512/25/25231.png" alt="Image of Github logo" display=block margin-left=auto margin-right=auto width=50%/>
