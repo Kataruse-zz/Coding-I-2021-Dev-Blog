@@ -1,11 +1,13 @@
 title: My Coding 1 Blog
-author: Kataruse
-email: pepsiluig@gmail.com
+author: Nick Crump
+email: nichacrump@k12k.com
 description: > # this means to ignore newlines until "baseurl:"
   This is my Blog where I will post updates related to my Coding 1 class for this 2021 semester.
 
+url: https://kataruse.github.io/github-pages-with-jekyll/
+
 # social links
-twitter_username:  # DO NOT include the @ character, or else the build will fail!
+twitter_username: dbtribelive # DO NOT include the @ character, or else the build will fail!
 github_username:  Kataruse # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
