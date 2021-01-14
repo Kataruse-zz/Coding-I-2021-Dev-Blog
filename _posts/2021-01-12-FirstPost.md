@@ -7,10 +7,14 @@ Hello! My name is Nick Crump and i'am currently taking a Coding 1 class.
 This blog will be somewhat daily updated to reflect my progress that i've been making in this class. 
 So far we've made Intro Slide decks for ourselfs and here is mine
 <br/>
-<iframe src="https://kataruse.github.io/github-slideshow/#/"</iframe>
+<iframe src="https://kataruse.github.io/github-slideshow/#/"></iframe>
 <br/>
 <h3>Goals</h3>
-Some of the things I hope to learn how to do in this class are building my first real working website and to be able to understand and remember how to code.
+Some of the things I hope to learn how to do in this class are 
+<ul>
+  <li>building my first real working website</li>
+  <li>to be able to understand and remember how to code</li>
+</ul>
 <br/>
 <h3>Career</h3>
 I personally don't really know what I want to do in life as a career yet but I know I want to go into something related 
