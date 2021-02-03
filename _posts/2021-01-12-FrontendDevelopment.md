@@ -1,6 +1,6 @@
 ---
-Title: "What is Frontend Development?"
-Date: 2-3-2021
+title: "What is Frontend Development?"
+date: 2-3-2021
 ---
 <h3><b>Intro</b></h3>
 Frontend development is making an interactive piece of media that is created 
@@ -11,7 +11,7 @@ of the piece of media/data your creating.
 <h3><b>Refelction on Learning</b></h3>
 An example of something that we've been working on that is Frontend development is our
 <b>Pinboard project</b>.
-<href src="https://011-frontend-development-pinboard-kataruse.dbcs.repl.co/" alt="Pinboard Link">Pinboard Link</href>
+<a href="https://011-frontend-development-pinboard-kataruse.dbcs.repl.co/" alt="Pinboard Link">Pinboard Link</a>
 In this project we were tasked with making a pinboard and then making it our own with adding features and a different
 title to separate it from our peers pinboards. This entire project was Frontend development since we were working directly
 with the code using CSS, HTML and Javascript to create our board. I think the main things I learn thought this project is the
@@ -20,69 +20,8 @@ a little HTML. I wish I messed around more with the CSS since I am not a sure wi
 your code but overall I'am happy with my Pinboard. Some of the things I wish I could of added was the option to search for
 multiple tags and to fix how the links appear on the post cards.
 </br>
-<h3>Heres of some of the code I did</h3>
-'''javascript
-  var link = document.createElement("a")
-  link.className = "link";
-  if (data[i].link == "") {
-    link.innerText = ""
-  } else {
-    link.innerText = "Link"
-  }
-  link.setAttribute('href',data[i].link);
-  card.appendChild(link)
-'''
-'''HTML
-  <span class="close">&times;</span>
-  <form>
-  <label for="imgSrc">Image source</label>
-  <input
-    type="text"
-    id="imgsrc"
-    name="source"
-    class="newCardInput"
-    placeholder="Paste your image url here"
-  />
-  <label for="desc">Description</label>
-  <input
-    type="text"
-    id="desc"
-    name="text"
-    class="newCardInput"
-    placeholder="Enter a short description of your post"
-  />
-  <label for="tags">Tags</label>
-  <input
-    type="text"
-    id="tags"
-    name="tags"
-    class="newCardInput"
-    placeholder="Separate tags with a semicolon ( ; )"
-   />
-   <label for="link">Link</label>
-   <input
-     type="text"
-     id="link"
-     name="link"
-     class="newLink"
-     placeholder="Add a Link"
-   />
-'''
-'''CSS
-  .submitButton :hover {
-    background-color: #00ffff;
-  }
-
-  h3 {
-    font-family: "Comfortaa", sans-serif;
-    background-color: #1a75ff;
-    max-width: 25rem;
-  }
-
-  a {
-    font-family: "Comfortaa", sans-serif;
-  }
-'''
+<h3><b>Screenshots & Code snippets</b></h3>
+![Creating a Post](https://i.ibb.co/cD45vSz/Newpost.png)
 </br>
 <h3><b>Conclusion</b></h3>
 Overall what I've learned about Frontend Development is that it invloes a lot of trial and error
