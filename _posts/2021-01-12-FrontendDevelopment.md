@@ -11,7 +11,7 @@ of the piece of media/data your creating.
 <h3><b>Refelction on Learning</b></h3>
 An example of something that we've been working on that is Frontend development is our
 <b>Pinboard project</b>.
-<href src="https://011-frontend-development-pinboard-kataruse.dbcs.repl.co/" alt="Pinboard Link">Pinboard Link</href>
+<a href="https://011-frontend-development-pinboard-kataruse.dbcs.repl.co/" alt="Pinboard Link">Pinboard Link</a>
 In this project we were tasked with making a pinboard and then making it our own with adding features and a different
 title to separate it from our peers pinboards. This entire project was Frontend development since we were working directly
 with the code using CSS, HTML and Javascript to create our board. I think the main things I learn thought this project is the
