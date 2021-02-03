@@ -22,14 +22,7 @@ multiple tags and to fix how the links appear on the post cards.
 <h3><b>Screenshots & Code snippets</b></h3>
 ![Creating a Post](https://i.ibb.co/cD45vSz/Newpost.png)
 ```HTML
-  <div class="cardContainer" id="cardContainer"></div>
-    <div id="newCardModal" class="modal">
-      <div class="modal-content">
-        <!-- the X-button can be achieved by using the "&times;" entity -->
-
-        <span class="close">&times;</span>
-        <form>
-          <label for="imgSrc">Image source</label>
+  <label for="imgSrc">Image source</label>
           <input
             type="text"
             id="imgsrc"
@@ -61,18 +54,11 @@ multiple tags and to fix how the links appear on the post cards.
              class="newLink"
              placeholder="Add a Link"
             />
-
-          <button type="button" class="submitButton" onclick="saveNewCard()">
-            Submit
-          </button>
-        </form>
-      </div>
-    </div>
 ```
 <br/>
 ![Link Hiding](https://i.ibb.co/nCyV28R/Cards.png)
 ```Javascript
-  var link = document.createElement("a")
+    var link = document.createElement("a")
     link.className = "link";
     if (data[i].link == "") {
       link.innerText = ""
@@ -90,5 +76,3 @@ figure out whats wrong with a specific problem sometimes coming back to it later
 might figure out the exact type of code you need for it to work properly later with a more clear head.
 Moving forward I want to learn more about Javascript but mostly focus on HTML and CSS as I didn't do much
 with those to languages as I did with Javascript.
-
-
