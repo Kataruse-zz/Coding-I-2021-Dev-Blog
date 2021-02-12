@@ -1,6 +1,6 @@
 ---
 title: "What is Frontend Development?"
-date: 2-3-2021
+date: 3-2-2021
 ---
 <h3><b>Intro</b></h3>
 Frontend development is making an interactive piece of media that is created 
