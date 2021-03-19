@@ -2,13 +2,13 @@
 title: "What is Frontend Development?"
 date: 3-2-2021
 ---
-<h3><b>Intro</b></h3>
+<h2><b>Intro</b></h2>
 Frontend development is making an interactive piece of media that is created 
 with codeing languges like HTML, CSS and Javascript. The reason why I think its
 called "Frontend" development is because your working with the raw code the "front"
 of the piece of media/data your creating.
 <br/>
-<h3><b>Refelction on Learning</b></h3>
+<h2><b>Refelction on Learning</b></h2>
 An example of something that we've been working on that is Frontend development is our
 <a href="https://011-Frontend-Development-Pinboard-Kataruse.dbcs.repl.co"><b>Pinboard project</b></a>.In this project we were tasked with making a pinboard 
 and then making it our own with adding features and a different title to separate it from our peers 
@@ -19,7 +19,7 @@ a little HTML. I wish I messed around more with the CSS since I am not a sure wi
 your code but overall I'am happy with my Pinboard. Some of the things I wish I could of added was the option to search for
 multiple tags and to fix how the links appear on the post cards.
 <br/>
-<h3><b>Screenshots & Code snippets</b></h3>
+<h2><b>Screenshots & Code snippets</b></h2>
 ![Creating a Post](https://i.ibb.co/cD45vSz/Newpost.png)
 ```HTML
   <label for="imgSrc">Image source</label>
@@ -69,7 +69,7 @@ multiple tags and to fix how the links appear on the post cards.
     card.appendChild(link)
 ```
 <br/>
-<h3><b>Conclusion</b></h3>
+<h2><b>Conclusion</b></h2>
 Overall what I've learned about Frontend Development is that it invloes a lot of trial and error
 with figuring out exactly what you need to acomplish a goal, i've also learned that when trying to
 figure out whats wrong with a specific problem sometimes coming back to it later is better as you
