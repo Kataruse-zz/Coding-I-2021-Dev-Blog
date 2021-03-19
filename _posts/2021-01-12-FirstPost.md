@@ -2,26 +2,26 @@
 title: "Hello, world!"
 date: 2021-01-12
 ---
-<h3>Introduction</h3>
+<h2>Introduction</h2>
 Hello! My name is Nick Crump and i'am currently taking a Coding 1 class. 
 This blog will be somewhat daily updated to reflect my progress that i've been making in this class. 
 So far we've made Intro Slide decks for ourselfs and here is mine
 <br/>
 <iframe src="https://kataruse.github.io/github-slideshow/#/"></iframe>
 <br/>
-<h3>Goals</h3>
+<h2>Goals</h2>
 Some of the things I hope to learn how to do in this class are 
 <ul>
   <li>building my first real working website</li>
   <li>to be able to understand and remember how to code</li>
 </ul>
 <br/>
-<h3>Career</h3>
+<h2>Career</h2>
 I personally don't really know what I want to do in life as a career yet but I know I want to go into something related 
 to technology and computers. My reasoning is because it's something i've always been around and interested in and it seems 
 like a job that will always be in demand.
 <br/>
-<h3>GitHub</h3>
+<h2>GitHub</h2>
 For the past week or so we've been working with GitHub created a presentation about ourselfs using it. 
 From what i've learned GitHub is like an online version of working within a folder with notepad which i've done before. 
 The only think that suprised me with GitHub is seeing how much I remembered from my first coding class I took. The only 
