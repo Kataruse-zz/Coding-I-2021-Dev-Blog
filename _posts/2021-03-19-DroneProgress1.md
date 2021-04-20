@@ -6,7 +6,7 @@ Date: 2021-03-19
 <h2><b>Introduction</b></h2>
 So far this week of working on our drones has been really succesful. We are at a point where we can control the drone easily and create custom commands for the drone to preform and could most likely run the course.
 
-![Image of Mover]({{site.url}}/assets/MoverTool.png)
+![Image of Mover](/assets/MoverTool.png)
 
 <h2><b>Process</b></h2>
 *Monday
