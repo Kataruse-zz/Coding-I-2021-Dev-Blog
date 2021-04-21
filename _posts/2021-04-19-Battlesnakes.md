@@ -3,7 +3,7 @@ title: "Battlesnake Reflection"
 Date: 2021-04-19
 ---
 
-<h2><b>Introduction/b></h2>
+<h2><b>Introduction</b></h2>
 Two weeks ago we were tasked with working in a two person team to make a Battlesnake to compete in a class tournament. We were givin some starter code but we had to code the snake to not run into itself or others.
 
 <h2><b>Coding the snake</b></h2>
@@ -138,3 +138,6 @@ avoidSnakes: (body, possibleMoves) => {
     return possibleMoves;
   },
 ```
+
+<h2><b>Takeaways from building this snake</b></h2>
+The main things I learned about while makeing this snake is thinking with if statements more and breaking out a problem into smaller steps since this snake issue can be tackled in many differnt ways. I also learned how to use and pull data from an API which allowed us to make the snake move in the first place. Overall making this snake was really fun and pretty difficult and I think if we had more time to work on it I would want to make our snake avoid other player snakes since we didn't have time to add that. My main issue with trying to add the snake avoiding other snakes feature was with trying to make the program check every player's body spots and compare it to the player head.
